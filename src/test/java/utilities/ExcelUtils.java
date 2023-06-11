@@ -1,5 +1,8 @@
 package utilities;
+<<<<<<< HEAD
 
+=======
+>>>>>>> f651875 (2nd Commit)
 import org.apache.poi.ss.usermodel.*;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -7,7 +10,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+<<<<<<< HEAD
 
+=======
+>>>>>>> f651875 (2nd Commit)
 public class ExcelUtils {
     private Workbook workBook;
     private Sheet workSheet;
@@ -120,5 +126,8 @@ public class ExcelUtils {
         }
         return data;
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> f651875 (2nd Commit)
 }
